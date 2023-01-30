@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jungeun04&theme=onedark">  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungeun04&theme=onedark&layout=compact&langs_count=5">  
+
+
+
 <!--
 **Jungeun04/Jungeun04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
