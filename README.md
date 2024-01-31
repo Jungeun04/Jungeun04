@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jungeun04&theme=onedark">  
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jungeun04&theme=onedark">  -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungeun04&theme=onedark&layout=compact&langs_count=5">  
 
